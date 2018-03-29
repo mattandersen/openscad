@@ -5,7 +5,7 @@ description: |
   OpenSCAD is a software for creating solid 3D CAD objects. It focuses on CAD
   aspects rather than artistic ones.
 confinement: strict
-grade: edge
+grade: devel
 
 apps:
   openscad:
