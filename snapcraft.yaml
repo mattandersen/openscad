@@ -6,6 +6,8 @@ description: |
   aspects rather than artistic ones.
 confinement: strict
 grade: devel
+architectures:
+    - on amd64: [amd64, i386]
 
 apps:
   openscad:
